@@ -1,0 +1,1 @@
+$DDS_ROOT/DCPSInfoRepo -ORBListenEndpoints iiop://:12345
